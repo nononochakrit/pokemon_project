@@ -1,7 +1,6 @@
 import React, { useState,useContext } from 'react';
 import poke from '../Images/Pokemon-login.png'
 import unknownPic from '../Images/unknownPic.png'
-import InfoPopup from './InfoPopup';
 import { createContext } from 'react';
 
 const Card = ({pokemon,loading}) => {

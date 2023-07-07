@@ -5,7 +5,6 @@ import p1 from '../Images/profile1.png'
 import ShowAll from './ShowAll';
 import Search from './Search';
 import Catch from './Catch';
-import InfoPopup from './InfoPopup';
 
 function Profile() {
     
